@@ -1,2 +1,1 @@
-Merhaba
-Nasilsin
+Birinci dosya olusturuldu
